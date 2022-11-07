@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://github.com/Arturgouveia1970/react-portfolio" target="_blank">Artur.tech</a>
+  <a href="https://github.com/Arturgouveia1970/react-portfolio" target="_blank"></a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/home.png" />
