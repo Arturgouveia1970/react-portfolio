@@ -5,9 +5,8 @@ import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
   AiOutlineTwitter,
-  AiFillInstagram,
 } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
+import { FaLinkedinIn, FaAngellist } from "react-icons/fa";
 
 function Home2() {
   return (
@@ -23,7 +22,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple">Ruby, C++, Javascript. </b>
+              <b className="purple">Ruby, C++, Javascript, SQL. </b>
               </i>
               <br />
               <br />
@@ -101,7 +100,7 @@ function Home2() {
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
                 >
-                  <AiFillInstagram />
+                  <FaAngellist />
                 </a>
               </li>
             </ul>
