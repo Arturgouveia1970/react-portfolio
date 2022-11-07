@@ -3,11 +3,11 @@
   <a href="https://github.com/Arturgouveia1970/react-portfolio" target="_blank">Artur.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/Capture.PNG" />
+  <img alt="Demo" src="./Images/home.png" />
 </div>
 
 <div align="center">
-  <img alt="projects list" src="./Images/works.PNG" />
+  <img alt="projects list" src="./Images/projects.png" />
 </div>
 
 <br/>
