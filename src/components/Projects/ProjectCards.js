@@ -18,8 +18,7 @@ function ProjectCards(props) {
           {props.isBlog ? "Blog" : "GitHub"}
         </Button>
         {"\n"}
-        {"\n"}
-
+        {"\n"} &nbsp;
         {/* If the component contains Demo link and if it's not a Blog then, it will render the below component  */}
 
         {!props.isBlog && props.demoLink && (
