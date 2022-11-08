@@ -42,6 +42,10 @@ This project was built using these technologies.
 - VsCode
 - Vercel
 
+## demo
+
+-[netlify](https://funny-paletas-3383b2.netlify.app)
+
 ## Features
 
 **📖 Multi-Page Layout**
