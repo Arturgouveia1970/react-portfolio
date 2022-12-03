@@ -44,7 +44,7 @@ This project was built using these technologies.
 
 ## demo
 
--[netlify](https://funny-paletas-3383b2.netlify.app)
+-[netlify](https://artur-portfolio2.netlify.app/)
 
 ## Features
 
