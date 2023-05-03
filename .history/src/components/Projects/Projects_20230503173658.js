@@ -83,7 +83,7 @@ function Projects() {
               title="Todos list"
               description="A simple todo list built with React and webpack."
               ghLink="https://github.com/Arturgouveia1970/react-todo-app"
-              demoLink="https://artur-react-todo-app.netlify.app"
+              demoLink="https://artur-badget.herokuapp.com/"
             />
           </Col>
         </Row>

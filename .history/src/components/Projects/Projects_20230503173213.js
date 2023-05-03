@@ -80,10 +80,10 @@ function Projects() {
             <ProjectCard
               imgPath={todos}
               isBlog={false}
-              title="Todos list"
-              description="A simple todo list built with React and webpack."
-              ghLink="https://github.com/Arturgouveia1970/react-todo-app"
-              demoLink="https://artur-react-todo-app.netlify.app"
+              title="Personal Budget App"
+              description="A mobile app that helps users controll expenses."
+              ghLink="https://github.com/Arturgouveia1970/personal-budget-app"
+              demoLink="https://artur-badget.herokuapp.com/"
             />
           </Col>
         </Row>

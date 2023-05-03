@@ -81,9 +81,9 @@ function Projects() {
               imgPath={todos}
               isBlog={false}
               title="Todos list"
-              description="A simple todo list built with React and webpack."
-              ghLink="https://github.com/Arturgouveia1970/react-todo-app"
-              demoLink="https://artur-react-todo-app.netlify.app"
+              description="A simple todo list ."
+              ghLink="https://github.com/Arturgouveia1970/personal-budget-app"
+              demoLink="https://artur-badget.herokuapp.com/"
             />
           </Col>
         </Row>
