@@ -23,15 +23,15 @@ function ResumeNew() {
       <Container fluid className="resume-section">
         <Particle />
         <Row style={{ justifyContent: "center", position: "relative" }}>
-          {/* <Button
+          <Button
             variant="primary"
-            href={"https://docs.google.com/document/d/1SLVv7tDIFFcfrqJM332XzWpE1LnIgEXvAE9r09a3hgA/edit?usp=sharing"}
+            href={resume}
             target="_blank"
             style={{ maxWidth: "250px" }}
           >
             <AiOutlineDownload />
             &nbsp;Download CV
-          </Button> */}
+          </Button>
         </Row>
 
         <Row className="resume">
@@ -48,7 +48,7 @@ function ResumeNew() {
             style={{ maxWidth: "250px" }}
           >
             <AiOutlineDownload />
-            &nbsp;View Resume
+            &nbsp;View CV
           </Button>
         </Row>
       </Container>

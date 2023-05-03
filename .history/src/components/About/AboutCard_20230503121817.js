@@ -27,7 +27,7 @@ function AboutCard() {
               <ImPointRight /> Cooking and creating cocktails
             </li>
             <li className="about-activity">
-              <ImPointRight /> Solving Sudoku puzzles
+              <ImPointRight /> Sudoku
             </li>
           </ul>
 

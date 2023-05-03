@@ -76,7 +76,7 @@ function Projects() {
             />
           </Col>
 
-          {/* <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
               imgPath={personal_budget}
               isBlog={false}
@@ -85,7 +85,7 @@ function Projects() {
               ghLink="https://github.com/Arturgouveia1970/personal-budget-app"
               demoLink="https://artur-badget.herokuapp.com/"
             />
-          </Col> */}
+          </Col>
         </Row>
       </Container>
     </Container>
